@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10782
   title: བཀའ་མ་དོང་སྤྲུགས་དང་གཏེར་ཁ་གོང་འོག་གི་ཆོ་གའི་སྐོར།
-  volume: ''
+  volume:
+    b4bdaa58bfc74579a9b6ae2a36b6d222:
+      image_group_id: I1KG10800
+      title: Volume 1 of bka' ma dong sprugs dang gter kha gong 'og gi cho ga'i skor/
+      volume_number: 1
+      total_pages: 520
   author: ''
+ebook_metadata:
+  title: བཀའ་མ་དོང་སྤྲུགས་དང་གཏེར་ཁ་གོང་འོག་གི་ཆོ་གའི་སྐོར།
+  author: ''
+  sku: P000581
+  cover: cover.jpg
+  layers:
+  - pagination
